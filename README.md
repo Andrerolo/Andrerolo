@@ -1,7 +1,7 @@
 ### Olá eu sou o André e este é o meu perfil do GITHUB 👍
 <br>
 
-![Pinhas GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrerolo&show_icons=true&theme=github_dark&count_private=true)
+![Andrerolo GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrerolo&show_icons=true&theme=github_dark&count_private=true)
 
 ### 👨🏻‍💻Linguagens com que ja trabalhei👨🏻‍💻
 <br>
